@@ -18,7 +18,7 @@ public class Main {
             outputFilePath = args[2];
             saveAsFile(mdFilePath, outputFilePath);
         } else {
-            System.out.println("Wrong arguments"); // aboba
+            System.out.println("Wrong arguments");
         }
 
 
